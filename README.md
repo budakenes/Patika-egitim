@@ -14,4 +14,4 @@ Proje Github üzerinde oluşturuldu ve sonrasında clone'landı. Clone'lanan pro
 # License
 [MIT]()
 
-![](https://r.resimlink.com/9p0oXYc.png)
+![Adsız](https://user-images.githubusercontent.com/116315357/197283319-5f0ba4ab-3679-479f-8ef6-8bfd0d507b3c.png)
