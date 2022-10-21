@@ -20,4 +20,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 [MIT]()
+
+## Patika Profilim
+[Patika](https://app.patika.dev/enesbudak)
+
 ![Adsız](https://user-images.githubusercontent.com/116315357/197285477-984b7438-6d0d-4e9f-a356-9e74a504a569.png)
