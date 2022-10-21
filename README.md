@@ -6,14 +6,12 @@ Oncelikle projeyi clonelayın.
 [Projeye gitmek için tıklayın](https://github.com/budakenes/kodluyoruzilkrepo.git)
 
 # Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-Linux için:
-(cd kodluyoruzilkrepo code.)
+Proje Github üzerinde oluşturuldu ve sonrasında clone'landı. Clone'lanan proje içerisinde README dosyası burada görüldüğü şekilde düzenlendi.
 
 # Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+*Kodluyoruz ekibine teşekkürler!*
 
 # License
-[MIT]
+[MIT]()
 
 ![Gorsel]()
