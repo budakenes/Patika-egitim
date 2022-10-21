@@ -14,4 +14,4 @@ Proje Github üzerinde oluşturuldu ve sonrasında clone'landı. Clone'lanan pro
 # License
 [MIT]()
 
-![Gorsel]()
+![Gorsel](image.png)
